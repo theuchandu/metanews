@@ -1,0 +1,218 @@
+    header {
+        padding-left: 10px !important;
+        border-bottom: 1px solid #87CEEB;
+    }
+    
+    #navbarSupportedContent li a {
+        font-weight: 600;
+        font-size: 15px;
+        margin-left: 60px;
+        color: #677b8c;
+    }
+    
+    #navbarSupportedContent li a:hover {
+        font-weight: 600;
+        color: #87CEEB;
+    }
+    
+    .mid-section h1 {
+        color: #666;
+        font-size: 40px;
+    }
+    
+    .mid-section h2 {
+        font-size: 22px;
+        letter-spacing: 5px;
+        padding-top: 10px;
+        color: #666;
+    }
+    
+    .mid-section-2 h4 {
+        font-size: 22px;
+        padding-top: 10px;
+        display: table;
+        border-bottom: 1px solid #87CEEB;
+    }
+    
+    .mid-section-2 img {
+        padding: 0px;
+        align-items: right;
+    }
+    
+    .news-items-img {
+        overflow: hidden;
+    }
+    
+    .news-items-img {
+        transition: 1s;
+    }
+    
+    .news-items-img:hover img {
+        transform: scale(1.1, 1.1);
+    }
+    
+    .news-items h4 {
+        padding-top: 20px;
+        display: table;
+        padding-bottom: 7px;
+        border-bottom: 1px solid #87CEEB;
+    }
+    
+    .news-items h3 {
+        padding-top: 10px;
+        display: table;
+        font-size: 38px;
+        line-height: 45px;
+        letter-spacing: 1.8px !important;
+        margin-bottom: 0px;
+    }
+    
+    .news-items p {
+        font-size: 17px;
+        color: #677b8c;
+        padding-bottom: 0px;
+    }
+    
+    .news-items-right h4 {
+        padding-top: 0px;
+    }
+    
+    .news-items-right h3 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    
+    .mid-section-2 {
+        background-color: #d8d8d8;
+    }
+    
+    .mid-section-3 {
+        margin-top: 30px;
+    }
+    
+    .news-left-sidebar ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .news-left-sidebar ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .news-left-sidebar ul li {
+        list-style: none;
+    }
+    
+    .news-left-sidebar ul li a {
+        color: rgb(46, 46, 46);
+        text-decoration: none;
+        margin-bottom: 20px;
+        padding-top: 100px;
+        line-height: 30px;
+    }
+    
+    .news-left-sidebar ul li a:hover {
+        color: #000000;
+        font-weight: 700;
+    }
+    
+    .news-left-sidebar h4 {
+        color: rgb(0, 0, 0);
+        font-size: 22px;
+    }
+    
+    .footer-top {
+        background-color: #ededed;
+        padding: 30px 0px;
+    }
+    
+    .footer-top h4 {
+        color: #666;
+        margin: 0px;
+        padding: 0px;
+        font-size: 20px;
+    }
+    
+    .footer-top a {
+        color: #a19797;
+        font-size: 17px;
+        text-decoration: none;
+        transition: 0.4s;
+    }
+    
+    .footer-top a:hover {
+        color: black;
+    }
+    
+    footer {
+        background: #f7f7f7;
+        padding: 40px 0px;
+    }
+    
+    .s-links h6 {
+        font-weight: normal;
+        padding-top: 20px;
+    }
+    
+    .s-links a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .s-links {
+        margin-right: 10px;
+    }
+    
+    footer ul {
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+    
+    footer ul li a {
+        text-decoration: none;
+        color: gray;
+        list-style: none;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    
+    footer ul li a:hover {
+        color: rgb(0, 0, 0);
+        font-weight: 600px;
+    }
+    
+    footer ul li {
+        list-style: none;
+    }
+    
+    .bottom-section {
+        border-top: 1px solid grey;
+        padding-top: 40px;
+    }
+    
+    .bottom-section a {
+        text-decoration: none;
+        color: gray;
+        list-style: none;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    
+    .bottom-section li {
+        list-style: none;
+        display: inline-block;
+    }
+    
+    .bottom-section ul {
+        text-align: right;
+    }
+    
+    .bottom-section ul li select {
+        border: none;
+    }
+    
+    .bottom-section ul li select option {
+        border: none;
+    }
